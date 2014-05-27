@@ -15,7 +15,8 @@
 LOCAL_PATH := vendor/samsung/i9300
 
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/proprietary/system/bin/gpsd:system/bin/gpsd
+    $(LOCAL_PATH)/proprietary/system/bin/gpsd:system/bin/gpsd \
+    $(LOCAL_PATH)/proprietary/system/bin/mount.exfat:system/bin/mount.exfat
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libakm.so:system/lib/libakm.so \
