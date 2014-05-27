@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/hlte/proprietary/bin/rfs_access:system/bin/rfs_access \
 	vendor/samsung/hlte/proprietary/bin/thermald:system/bin/thermald \
 	vendor/samsung/hlte/proprietary/bin/thermal-engine:system/bin/thermal-engine \
+	vendor/samsung/hlte/proprietary/bin/mount.exfat:system/bin/mount.exfat \
 	vendor/samsung/hlte/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
 	vendor/samsung/hlte/proprietary/vendor/firmware/bcm4339.hcd:system/vendor/firmware/bcm4339.hcd \
 	vendor/samsung/hlte/proprietary/vendor/firmware/bcm4335.hcd:system/vendor/firmware/bcm4335.hcd \
