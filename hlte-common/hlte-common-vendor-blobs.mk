@@ -232,6 +232,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hlte-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
     vendor/samsung/hlte-common/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/samsung/hlte-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
+    vendor/samsung/hlte-common/proprietary/bin/mount.exfat:system/bin/mount.exfat \
     vendor/samsung/hlte-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/samsung/hlte-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/hlte-common/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
