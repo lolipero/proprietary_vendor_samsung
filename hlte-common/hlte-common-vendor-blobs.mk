@@ -236,10 +236,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hlte-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/hlte-common/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/hlte-common/proprietary/lib/libwvm.so:system/lib/libwvm.so \
-    vendor/samsung/hlte-common/proprietary/lib/libhdcp2.so:system/lib/libhdcp2.so \
-    vendor/samsung/hlte-common/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
     vendor/samsung/hlte-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/samsung/hlte-common/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
+    vendor/samsung/hlte-common/proprietary/vendor/lib/libdrmdiag.so:system/vendor/lib/libdrmdiag.so \
     vendor/samsung/hlte-common/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
     vendor/samsung/hlte-common/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
     vendor/samsung/hlte-common/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
