@@ -24,7 +24,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hlte/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/hlte/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/samsung/hlte/proprietary/lib/hw/flp.default.so:system/lib/hw/flp.default.so \
+    vendor/samsung/hlte/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/samsung/hlte/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/samsung/hlte/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/samsung/hlte/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
+    vendor/samsung/hlte/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/samsung/hlte/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/hlte/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/hlte/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \

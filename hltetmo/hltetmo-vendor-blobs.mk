@@ -17,7 +17,10 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/hltetmo/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/samsung/hltetmo/proprietary/lib/hw/flp.default.so:system/lib/hw/flp.default.so \
+    vendor/samsung/hltetmo/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/hltetmo/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/samsung/hltetmo/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
+    vendor/samsung/hltetmo/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/samsung/hltetmo/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/samsung/hltetmo/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/samsung/hltetmo/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
