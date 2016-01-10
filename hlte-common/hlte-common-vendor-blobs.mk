@@ -40,6 +40,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hlte-common/proprietary/etc/Headset_cal.acdb:system/etc/Headset_cal.acdb \
     vendor/samsung/hlte-common/proprietary/etc/sec_config:system/etc/sec_config \
     vendor/samsung/hlte-common/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
+    vendor/samsung/hlte-common/proprietary/bin/radish:system/bin/radish \
     vendor/samsung/hlte-common/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/hlte-common/proprietary/etc/wifi/bcmdhd_mfg.bin:system/etc/wifi/bcmdhd_mfg.bin \
     vendor/samsung/hlte-common/proprietary/etc/wifi/bcmdhd_sta.bin:system/etc/wifi/bcmdhd_sta.bin \
