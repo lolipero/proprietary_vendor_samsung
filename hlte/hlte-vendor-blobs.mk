@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hlte/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/hlte/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/hlte/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
-    vendor/samsung/hlte/proprietary/lib/hw/flp.default.so:system/lib/hw/flp.default.so \
     vendor/samsung/hlte/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/samsung/hlte/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/hlte/proprietary/lib/libril.so:system/lib/libril.so \
